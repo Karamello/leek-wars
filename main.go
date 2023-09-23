@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"leek-wars/leekwars"
+	"github.com/Karamello/leek-wars/leekwars"
 )
 
 func main() {
